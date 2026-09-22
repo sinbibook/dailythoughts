@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.2.0",
-    "generatedAt": "2026-09-22T05:56:20.530734497Z",
+    "version": "1.3.0",
+    "generatedAt": "2026-09-22T05:57:32.418631062Z",
     "templateType": "trip_e",
     "propertyId": "a9b2e593-7255-48a3-83a8-3933cf9a7fd6",
     "homepageId": "a78febc5-f205-4462-ace8-08fb11cc605d"
@@ -29,6 +29,9 @@
     "domain": "dailythoughts.kr",
     "realtimeBookingId": "https://www.bookingplay.co.kr/booking/1/10916",
     "ybsId": "79421",
+    "tripPropertyId": "10916",
+    "partnerType": "distributor_b",
+    "tripProviderName": "트립일레븐",
     "amenities": [
       "흡연구역(지정장소)",
       "주차장"
@@ -506,10 +509,7 @@
         "surrounding": [ ],
         "commonArea": [ ]
       }
-    ],
-    "tripPropertyId": "10916",
-    "partnerType": "distributor_b",
-    "tripProviderName": "트립일레븐"
+    ]
   },
   "rooms": [
     {
@@ -1734,9 +1734,9 @@
       },
       "theme": {
         "font": {
+          "koMain": null,
           "koSub": null,
-          "enMain": null,
-          "koMain": null
+          "enMain": null
         },
         "color": null
       },
