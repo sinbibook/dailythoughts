@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.4.0",
-    "generatedAt": "2026-10-09T11:19:30.528281552Z",
+    "version": "1.5.0",
+    "generatedAt": "2026-10-20T15:44:09.591982949Z",
     "templateType": "trip_e",
     "propertyId": "a9b2e593-7255-48a3-83a8-3933cf9a7fd6",
     "homepageId": "a78febc5-f205-4462-ace8-08fb11cc605d"
@@ -290,6 +290,22 @@
             "description": "",
             "isSelected": true,
             "blockId": null
+          },
+          {
+            "id": "01a159fa-6edc-763c-a808-6456ebc06b76",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/c19e79d4-2fcf-4b3c-b7c1-ec7c9c802c31/main/1792510946220-5u7pc0gtut.webp",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a159fa-6e4f-7441-84e2-8c44b1e2ebcf",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/c19e79d4-2fcf-4b3c-b7c1-ec7c9c802c31/main/1792510946164-nc905kv7p9.webp",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
           }
         ]
       },
@@ -309,25 +325,9 @@
             "blockId": null
           },
           {
-            "id": "17fd4e33-800b-4702-80ec-5b44ea68839f",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/10e7c5ac-508f-4ce5-b7a6-3b9205fb7ac4/main/1787626276132-1z1c8l58eh.webp",
-            "sortOrder": 1,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          },
-          {
-            "id": "6722f6d6-e157-4262-9ad5-6e317bdccd71",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/10e7c5ac-508f-4ce5-b7a6-3b9205fb7ac4/main/1787626276133-lrlfq8js1j.webp",
-            "sortOrder": 2,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          },
-          {
             "id": "6924870a-4c4c-49bb-b8d3-eff11facf489",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/10e7c5ac-508f-4ce5-b7a6-3b9205fb7ac4/main/1787626276135-k3y1v5t06z.webp",
-            "sortOrder": 3,
+            "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -335,7 +335,7 @@
           {
             "id": "772a8bf5-7211-4054-9a30-546e54a40823",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/10e7c5ac-508f-4ce5-b7a6-3b9205fb7ac4/main/1787626276136-yyx3sa5sqi.webp",
-            "sortOrder": 4,
+            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -343,7 +343,7 @@
           {
             "id": "347da288-f7e2-47ff-960f-08e6a424b696",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/10e7c5ac-508f-4ce5-b7a6-3b9205fb7ac4/main/1787626276136-2xffbzcq7g.webp",
-            "sortOrder": 5,
+            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -351,7 +351,7 @@
           {
             "id": "190672cd-6e3e-4493-8861-4b2e43539ce7",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/10e7c5ac-508f-4ce5-b7a6-3b9205fb7ac4/main/1787626276136-ikg5w58ddg.webp",
-            "sortOrder": 6,
+            "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -1383,8 +1383,8 @@
                 "title": "",
                 "images": [
                   {
-                    "id": "8ddbc95e-114c-4a05-83e3-cc83a77ce53b",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/a78febc5-f205-4462-ace8-08fb11cc605d/index_essence/1787625992474-6s0lyh93zs.jpg",
+                    "id": "01a159fb-f6b5-7b3b-b4f6-9cae6197f04c",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/a78febc5-f205-4462-ace8-08fb11cc605d/index_essence/1792511046831-iq0h93fr78.webp",
                     "sortOrder": 0,
                     "description": "사계절 내내 즐기는 하루의 물놀이",
                     "isSelected": true,
@@ -1727,6 +1727,9 @@
               "enabled": true
             }
           ]
+        },
+        "landing": {
+          "sections": [ ]
         }
       },
       "popup": {
@@ -2452,7 +2455,10 @@
             }
           ]
         }
-      ]
+      ],
+      "footer": {
+        "ruralStayMark": null
+      }
     }
   }
 }
